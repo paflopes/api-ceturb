@@ -1,4 +1,4 @@
-const ceturbApi = process.env.CETURB_API || 'http://api.ceturb.des.es.gov.br/onibus/api';
+const ceturbApi = process.env.CETURB_API || 'http://api.ceturb.es.gov.br/onibus/api';
 
 module.exports = {
     api: ceturbApi,
